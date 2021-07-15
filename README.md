@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My CV:
-https://drive.google.com/file/d/1yqczKuxtNUcCDVTeJ0gTLe3e0kC_VEvh/view?usp=sharing
+https://drive.google.com/file/d/1FB74Kfa4hjZDM7lYGQmjWJnvm6-OCtjU/view?usp=sharing
 <!--
 **nurahsanadzim/nurahsanadzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
