@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My CV:
-https://drive.google.com/file/d/1bxrUzyg-oWYtw43AVWghJbM_LxovK1Vc/view?usp=sharing
+Reach me: [My Site](https://nurahsanadzim.netlify.app/)
 <!--
 **nurahsanadzim/nurahsanadzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
