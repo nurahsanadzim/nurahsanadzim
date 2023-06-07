@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Reach me: [My Site](https://nurahsanadzim.netlify.app/)
+Reach me: [My Site](https://nurahsanadzim.my.id/)
 <!--
 **nurahsanadzim/nurahsanadzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
